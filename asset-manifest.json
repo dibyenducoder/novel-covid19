@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/novel-covid19/static/css/main.aa188322.chunk.css",
+    "main.js": "/novel-covid19/static/js/main.628e0b8e.chunk.js",
+    "main.js.map": "/novel-covid19/static/js/main.628e0b8e.chunk.js.map",
+    "runtime-main.js": "/novel-covid19/static/js/runtime-main.c862e270.js",
+    "runtime-main.js.map": "/novel-covid19/static/js/runtime-main.c862e270.js.map",
+    "static/css/2.69121389.chunk.css": "/novel-covid19/static/css/2.69121389.chunk.css",
+    "static/js/2.71c5b9b1.chunk.js": "/novel-covid19/static/js/2.71c5b9b1.chunk.js",
+    "static/js/2.71c5b9b1.chunk.js.map": "/novel-covid19/static/js/2.71c5b9b1.chunk.js.map",
+    "index.html": "/novel-covid19/index.html",
+    "precache-manifest.c4b9f1ad92b85eae7aac27f104cb3be9.js": "/novel-covid19/precache-manifest.c4b9f1ad92b85eae7aac27f104cb3be9.js",
+    "service-worker.js": "/novel-covid19/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/novel-covid19/static/css/2.69121389.chunk.css.map",
+    "static/css/main.aa188322.chunk.css.map": "/novel-covid19/static/css/main.aa188322.chunk.css.map",
+    "static/js/2.71c5b9b1.chunk.js.LICENSE.txt": "/novel-covid19/static/js/2.71c5b9b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c862e270.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.71c5b9b1.chunk.js",
+    "static/css/main.aa188322.chunk.css",
+    "static/js/main.628e0b8e.chunk.js"
+  ]
+}
